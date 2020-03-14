@@ -17,7 +17,7 @@ namespace CSharpKursBitirmeProjesi
             InitializeComponent();
             //test
             //TEST SİNAN
-
+            //tEST hANDE
 
         }
     }
