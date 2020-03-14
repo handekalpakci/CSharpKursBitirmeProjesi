@@ -20,7 +20,7 @@ namespace CSharpKursBitirmeProjesi
             //tEST hANDE
             // teST SİNAN 2
             //JDIOFHGJL
-
+            //FDFJDFD
         }
     }
 }
