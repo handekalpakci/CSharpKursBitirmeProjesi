@@ -1,6 +1,6 @@
 ﻿namespace CSharpKursBitirmeProjesi
 {
-    partial class Form1
+    partial class GirişEkranı
     {
         /// <summary>
         /// Required designer variable.

@@ -10,17 +10,12 @@ using System.Windows.Forms;
 
 namespace CSharpKursBitirmeProjesi
 {
-    public partial class Form1 : Form
+    public partial class GirişEkranı : Form
     {
-        public Form1()
+        public GirişEkranı()
         {
             InitializeComponent();
-            //test
-            //TEST SİNAN
-            //tEST hANDE
-            // teST SİNAN 2
-            //JDIOFHGJL
-            //FDFJDFD
+            
         }
     }
 }
